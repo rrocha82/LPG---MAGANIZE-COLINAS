@@ -1,0 +1,13 @@
+produtos:  
+Smart TV
+Lava e Seca
+preços:  
+2700.0
+3699.0
+forma de pagamento: forma de pagamento não informada
+nome: nome não informado
+data de nascimento: data de nascimento não informada
+cpf: cpf não informado
+endereço: endereço não informado
+número da casa: número da casa não informado
+[[datetime.datetime(2021, 6, 14, 23, 42, 11, 504065)], ['Monday']]
